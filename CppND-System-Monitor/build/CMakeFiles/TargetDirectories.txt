@@ -1,0 +1,3 @@
+/mnt/e/UdaCity/c++/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/UdaCity/c++/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
+/mnt/e/UdaCity/c++/CppND-System-Monitor/build/CMakeFiles/monitor.dir
